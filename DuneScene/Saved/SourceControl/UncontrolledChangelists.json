@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jessi/Documents/Unreal Projects/DuneScene/Content/Textures/Emmisive_Map.uasset",
+				"C:/Users/jessi/Documents/Unreal Projects/DuneScene/Content/Textures/gem_base.uasset",
+				"C:/Users/jessi/Documents/Unreal Projects/DuneScene/Content/Textures/gem_Metallic.uasset",
+				"C:/Users/jessi/Documents/Unreal Projects/DuneScene/Content/Textures/gem_Roughness.uasset",
+				"C:/Users/jessi/Documents/Unreal Projects/DuneScene/Content/Textures/NormalMap.uasset",
+				"C:/Users/jessi/Documents/Unreal Projects/DuneScene/Content/Textures/Texture-Maps/NormalMap.uasset",
+				"C:/Users/jessi/Documents/Unreal Projects/DuneScene/Content/Textures/Texture-Maps/gem_Roughness.uasset",
+				"C:/Users/jessi/Documents/Unreal Projects/DuneScene/Content/Textures/Texture-Maps/gem_Metallic.uasset",
+				"C:/Users/jessi/Documents/Unreal Projects/DuneScene/Content/Textures/Texture-Maps/gem_base.uasset",
+				"C:/Users/jessi/Documents/Unreal Projects/DuneScene/Content/Textures/Texture-Maps/Emmisive_Map.uasset",
+				"C:/Users/jessi/Documents/Unreal Projects/DuneScene/Content/Textures/Gem-Texture.uasset",
+				"C:/Users/jessi/Documents/Unreal Projects/DuneScene/Content/DuneScene.umap",
+				"C:/Users/jessi/Documents/Unreal Projects/DuneScene/Content/GAD174_Project3_Guide.uasset",
+				"C:/Users/jessi/Documents/Unreal Projects/DuneScene/Content/Gem_Icosphere.uasset"
+			]
+		}
+	]
+}
